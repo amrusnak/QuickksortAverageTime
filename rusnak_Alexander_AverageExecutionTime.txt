@@ -1,0 +1,10 @@
+Average time for input size 10: 0.53804
+Average time for input size 100: 0.724436
+Average time for input size 1000: 1.8306
+Average time for input size 10000: 13.2143
+Average time for input size 100000: 138.131
+Average time for input size 10: 0.500543
+Average time for input size 100: 0.698061
+Average time for input size 1000: 1.69467
+Average time for input size 10000: 12.0639
+Average time for input size 100000: 127.227
